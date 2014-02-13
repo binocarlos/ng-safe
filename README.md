@@ -11,7 +11,7 @@ $ component install binocarlos/ng-safe
 
 ## usage
 
-```
+```js
 angular.module('myApp', [
 	require('ng-safe')
 ])
