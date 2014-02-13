@@ -31,6 +31,12 @@ angular.module('myApp', [
 
 ```
 
+## $safeApply($scope, fn)
+
+This is returned as a factory into your controller.  Pass the scope and a function that will write values to that scope.
+
+
+
 ## license
 
 MIT
